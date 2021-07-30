@@ -1,0 +1,1 @@
+# scorecard-check-binary-artifacts-e2e
